@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)](https://Dishantkharkar.io)
+[![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif)](https://Dishantkharkar.io)
 <h1 align="center">Hi 👋, I'm Dishant Kharkar</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

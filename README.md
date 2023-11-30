@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/Dishantkharkar/Dishantkharkar/assets/130529528/b0829974-3ec4-431b-adf8-66e31153c99d)]
+![image](https://github.com/Dishantkharkar/Dishantkharkar/assets/130529528/be295cdd-d1ca-4524-910e-b672644d0e1c)]
 
 <h1 align="center">Hi 👋, I'm Dishant Kharkar</h1>
 <h3 align="center">Aspiring Data Scientist || AI Enthusiast ||  Machine Learning Associate</h3>
